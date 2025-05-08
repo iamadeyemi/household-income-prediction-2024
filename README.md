@@ -162,25 +162,22 @@ jupyter notebook
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve this project or add new analyses:
-
-1. Fork the project
-2. Create a feature branch (`git checkout -b feature/new_analysis`)
-3. Commit changes (`git commit -m 'Add new analysis'`)
-4. Push to the branch (`git push origin feature/new_analysis`)
-5. Open a pull request
+## 👨‍💻 **Contributors**  
+- **Timothy Adeyemi** 🚀  
+  - **GitHub:** [@iamadeyemi](https://github.com/iamadeyemi)  
+  - **LinkedIn:** [iamadeyemi](https://www.linkedin.com/in/timothy-ade/)  
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+## 📜 **License**  
+This project is licensed under the **MIT License** – feel free to use and improve it!  
 
 ---
 
-## ✅ Author
+## ⭐ **Show Your Support!**  
+If you found this project useful, please **star ⭐ the repository** and share it!  
+
+Happy coding! 🚀🏡💻  
 
 👤 **Your Name**
 
