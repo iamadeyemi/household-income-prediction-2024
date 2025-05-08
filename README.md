@@ -4,21 +4,6 @@
 
 ---
 
-## 📚 Table of Contents
-
-1. [Overview](#overview)  
-2. [Dataset Description](#dataset-description)  
-3. [Problem Statement](#problem-statement)  
-4. [Methods Used](#methods-used)  
-5. [Project Structure](#project-structure)  
-6. [Requirements](#requirements)  
-7. [How to Run](#how-to-run)  
-8. [Results Summary](#results-summary)  
-9. [Contributing](#contributing)  
-10. [License](#license)
-
----
-
 ## 🧾 Overview
 
 This project explores the **Household Income Dataset**, aiming to predict annual household income using various socioeconomic and housing characteristics. The analysis includes:
@@ -132,7 +117,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/iamadeyemi/household-income-prediction-2024.git
-cd household-income-prediction
+cd household-income-prediction-2024
 ```
 
 2. Install required packages:
