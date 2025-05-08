@@ -178,9 +178,3 @@ This project is licensed under the **MIT License** – feel free to use and impr
 If you found this project useful, please **star ⭐ the repository** and share it!  
 
 Happy coding! 🚀🏡💻  
-
-👤 **Your Name**
-
-- LinkedIn: [your-linkedin-url]
-- GitHub: [@yourusername](https://github.com/iamadeyemi)
-- Email: your.email@example.com
