@@ -127,7 +127,7 @@ jupyter notebook
 ---
 
 ## 📜 **License**  
-This project is licensed under the **MIT License** – feel free to use and improve it! 
+This project is licensed under the **MIT License** – feel free to use and improve it!
 
 ---
 
