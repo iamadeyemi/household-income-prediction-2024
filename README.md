@@ -62,16 +62,6 @@ This predictive model helps:
 
 ---
 
-
-│   └── preprocess.py                  # Data preprocessing script
-│
-├── README.md                          # You are here!
-│
-└── requirements.txt                   # Python dependencies
-```
-
----
-
 ## ⚙️ Requirements
 
 To run this project locally, you need:
