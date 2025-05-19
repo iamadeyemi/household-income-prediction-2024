@@ -132,6 +132,6 @@ This project is licensed under the **MIT License** – feel free to use and impr
 ---
 
 ## ⭐ **Show Your Support!**  
-If you found this project useful, please **star ⭐ the repository** and share it!  
+If you found this project useful, please **star ⭐ the repository** and share it!
 
 Happy coding! 🚀🏡💻
