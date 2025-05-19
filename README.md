@@ -68,7 +68,7 @@ This predictive model helps:
 household-income-prediction/
 │
 ├── data/
-│   └── HouseholdIncomeDataset.csv     # Original dataset
+│   └── HouseholdIncomeDataset.csv     # Dataset used
 │
 ├── notebooks/
 │   ├── exploratory_data_analysis.ipynb
