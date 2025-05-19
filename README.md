@@ -62,25 +62,7 @@ This predictive model helps:
 
 ---
 
-## 📁 Project Structure
 
-```
-household-income-prediction/
-│
-├── data/
-│   └── HouseholdIncomeDataset.csv     # Dataset used
-│
-├── notebooks/
-│   ├── exploratory_data_analysis.ipynb
-│   ├── regression_modeling.ipynb
-│   ├── cross_validation.ipynb
-│   ├── bootstrapping.ipynb
-│   └── unsupervised_learning.ipynb
-│
-├── reports/
-│   └── final_report.pdf               # Final written report (Word/PDF)
-│
-├── src/
 │   └── preprocess.py                  # Data preprocessing script
 │
 ├── README.md                          # You are here!
